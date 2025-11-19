@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+* {
+    font-family: "VT323", monospace;
+}
+
+text-black, bg-black, border-black {
+    color: #090909;
+}
+
+text-white, bg-white, border-white {
+    color: #EEEEEE;
+}
